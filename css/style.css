@@ -72,9 +72,6 @@ main .contacts h3 {
     transform: translate(0, -50%);
 }
 
-/*main li {
-    margin-bottom: 10px;
-}*/
 main .tooltip {
     content: attr(data-title);
     margin: 10px 0 0 70px;
