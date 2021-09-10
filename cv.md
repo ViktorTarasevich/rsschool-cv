@@ -1,21 +1,21 @@
 # Tarasevich Viktor Alexandrovich
-![](589409672.jpg)
+![](589409672.jpg)  
 ## Contact information:
 > *Phone*: +375295422584  
 *E-mail*: vitjaa.tarasevich@gmail.com  
-*Telegram*: @viktor_tarasevich
+*Telegram*: @viktor_tarasevich  
 ## About me:
 > Purpose: professional growth and development, work for the result.  
 Good communication skills. Teamwork skills.
 Good analytical and problem solving skills.  
-**The ability to quickly learn new languages and frameworks.**
+**The ability to quickly learn new languages and frameworks.**  
 ## Skills:
 * JavaScript Basics,
 * HTML, CSS (Bootstrap),
 * NodeJS,
 * MySQL, POSTGRESQL,
 * Git,
-* Postman
+* Postman  
 ## Code examples
 >function Calculator() {  
 this.read = function () {  
@@ -28,9 +28,9 @@ return this.a + this.b
 this.mul = function () {  
 return this.a * this.b  
 };  
-}
+}  
 ## Education:
 >Grodno State University Y. Kupala  
-Faculty: Mathematics and Informatics, Information Technology Software
+Faculty: Mathematics and Informatics, Information Technology Software  
 ## English level:
->A2 - Elementary
+>A2 - Elementary  
