@@ -4,7 +4,7 @@
 
 ## Contact information:
 > *Phone*: +375295422584  
-*E-mail*: vitjaa.tarasevich@gmail.com  
+*E-mail*: vitjaa.tarasevich@gmail.com   
 *Telegram*: @viktor_tarasevich  
 
 ## About me:
