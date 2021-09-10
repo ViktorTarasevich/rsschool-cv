@@ -10,14 +10,30 @@ body {
 }
 
 
-.container-centered {
+.container {
     margin: 20px auto;
-    max-width: 1024px;
+    max-width: 1200px;
     font-family: "Cabin", sans-serif;
     font-size: 18px;
     line-height: 1.5;
     background-color: #ffffff;
     box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
+}
+
+@media (max-width: 1200px) {
+    container {
+        max-width: 970px;
+    }
+}
+@media (max-width: 992px) {
+    container {
+        max-width: 750px;
+    }
+}
+@media (max-width: 767px) {
+    container {
+        max-width: none;
+    }
 }
 
 .right-column {
