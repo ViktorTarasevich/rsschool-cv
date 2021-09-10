@@ -1,6 +1,6 @@
 # Tarasevich Viktor Alexandrovich
 
-
+![](589409672.jpg)
 
 ## Contact information:
 > *Phone*: +375295422584  
